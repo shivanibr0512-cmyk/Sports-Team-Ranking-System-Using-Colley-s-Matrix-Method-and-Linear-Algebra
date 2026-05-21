@@ -1,0 +1,2 @@
+# Sports-Team-Ranking-System-Using-Colley-s-Matrix-Method-and-Linear-Algebra
+This project applies linear algebra concepts to develop a sports team ranking system using Colley’s Matrix Method. It involves solving systems of linear equations using LU decomposition, constructing ranking matrices, comparing computational methods, and analyzing performance using Python libraries such as NumPy, SciPy, and SymPy
